@@ -1,0 +1,10 @@
+[phases.setup]
+# Chỉ cần khai báo python311, hệ thống sẽ tự hiểu và cài kèm pip bên trong
+nixPkgs = ["python311"]
+
+[phases.install]
+# Sử dụng python3.11 -m pip thay vì gọi pip trực tiếp
+cmds = [
+    "python3.11 -m pip install --upgrade pip setuptools wheel",
+    "python3.11 -m pip install -r requirements.txt"
+]
