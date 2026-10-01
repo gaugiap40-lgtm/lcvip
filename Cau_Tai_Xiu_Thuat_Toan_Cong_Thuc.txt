@@ -1,0 +1,886 @@
+DANH SÁCH MỞ RỘNG CÁC DẠNG CẦU TÀI XỈU
+(Bản tham khảo tên gọi. Không có cầu nào đảm bảo ván sau.
+Không cổ vũ cá cược. Hãy kiểm tra quy định pháp luật nơi bạn ở.)
+
+KÝ HIỆU:
+- T = Tài, X = Xỉu
+- Dấu ... = chuỗi tiếp tục lặp lại
+- a-b = nhịp a rồi nhịp b
+- a-b-c = nhịp a, b, c rồi lặp
+
+==================================================
+PHẦN A: CÁC DẠNG CẦU TÀI XỈU
+==================================================
+
+A1. CẦU BỆT / CẦU RỒNG
+- Bệt Tài: T T T T T...
+- Bệt Xỉu: X X X X X...
+- Bệt 2: T T / X X
+- Bệt 3: T T T / X X X
+- Bệt 4: T T T T / X X X X
+- Bệt 5: T T T T T / X X X X X
+- Bệt 6: T T T T T T / X X X X X X
+- Bệt 7: T T T T T T T / X X X X X X X
+- Bệt 8: T T T T T T T T / X X X X X X X X
+- Bệt 9: T T T T T T T T T / X X X X X X X X X
+- Bệt 10: T T T T T T T T T T / X X X X X X X X X X
+- Bệt dài: T T T T T T T T T T T T... / X X X X X X X X X X X X...
+
+A2. CẦU NHỊP ĐÔI / NHỊP LỆCH 2 NHÓM
+- 1-1: T X T X T X...
+- 2-2: T T X X T T X X...
+- 3-3: T T T X X X T T T X X X...
+- 4-4: T T T T X X X X...
+- 5-5: T T T T T X X X X X...
+- 6-6: T T T T T T X X X X X X...
+- 7-7: T T T T T T T X X X X X X X...
+- 8-8: T T T T T T T T X X X X X X X X...
+- 9-9: T T T T T T T T T X X X X X X X X X...
+- 10-10: T T T T T T T T T T X X X X X X X X X X...
+- 1-2: T X X T X X...
+- 2-1: T T X T T X...
+- 1-3: T X X X T X X X...
+- 3-1: T T T X T T T X...
+- 1-4: T X X X X T X X X X...
+- 4-1: T T T T X T T T T X...
+- 1-5: T X X X X X T X X X X X...
+- 5-1: T T T T T X T T T T T X...
+- 1-6: T X X X X X X T X X X X X X...
+- 6-1: T T T T T T X T T T T T T X...
+- 1-7: T X X X X X X X T X X X X X X X...
+- 7-1: T T T T T T T X T T T T T T T X...
+- 1-8: T X X X X X X X X T X X X X X X X X...
+- 8-1: T T T T T T T T X T T T T T T T T X...
+- 1-9: T X X X X X X X X X T X X X X X X X X X...
+- 9-1: T T T T T T T T T X T T T T T T T T T X...
+- 1-10: T X X X X X X X X X X T X X X X X X X X X X...
+- 10-1: T T T T T T T T T T X T T T T T T T T T T X...
+- 2-3: T T X X X T T X X X...
+- 3-2: T T T X X T T T X X...
+- 2-4: T T X X X X T T X X X X...
+- 4-2: T T T T X X T T T T X X...
+- 2-5: T T X X X X X T T X X X X X...
+- 5-2: T T T T T X X T T T T T X X...
+- 2-6: T T X X X X X X T T X X X X X X...
+- 6-2: T T T T T T X X T T T T T T X X...
+- 2-7: T T X X X X X X X T T X X X X X X X...
+- 7-2: T T T T T T T X X T T T T T T T X X...
+- 2-8: T T X X X X X X X X T T X X X X X X X X...
+- 8-2: T T T T T T T T X X T T T T T T T T X X...
+- 2-9: T T X X X X X X X X X T T X X X X X X X X X...
+- 9-2: T T T T T T T T T X X T T T T T T T T T X X...
+- 2-10: T T X X X X X X X X X X T T X X X X X X X X X X...
+- 10-2: T T T T T T T T T T X X T T T T T T T T T T X X...
+- 3-4: T T T X X X X T T T X X X X...
+- 4-3: T T T T X X X T T T T X X X...
+- 3-5: T T T X X X X X T T T X X X X X...
+- 5-3: T T T T T X X X T T T T T X X X...
+- 3-6: T T T X X X X X X T T T X X X X X X...
+- 6-3: T T T T T T X X X T T T T T T X X X...
+- 3-7: T T T X X X X X X X T T T X X X X X X X...
+- 7-3: T T T T T T T X X X T T T T T T T X X X...
+- 3-8: T T T X X X X X X X X T T T X X X X X X X X...
+- 8-3: T T T T T T T T X X X T T T T T T T T X X X...
+- 3-9: T T T X X X X X X X X X T T T X X X X X X X X X...
+- 9-3: T T T T T T T T T X X X T T T T T T T T T X X X...
+- 3-10: T T T X X X X X X X X X X T T T X X X X X X X X X X...
+- 10-3: T T T T T T T T T T X X X T T T T T T T T T T X X X...
+- 4-5: T T T T X X X X X T T T T X X X X X...
+- 5-4: T T T T T X X X X T T T T T X X X X...
+- 4-6: T T T T X X X X X X T T T T X X X X X X...
+- 6-4: T T T T T T X X X X T T T T T T X X X X...
+- 4-7: T T T T X X X X X X X T T T T X X X X X X X...
+- 7-4: T T T T T T T X X X X T T T T T T T X X X X...
+- 4-8: T T T T X X X X X X X X T T T T X X X X X X X X...
+- 8-4: T T T T T T T T X X X X T T T T T T T T X X X X...
+- 4-9: T T T T X X X X X X X X X T T T T X X X X X X X X X...
+- 9-4: T T T T T T T T T X X X X T T T T T T T T T X X X X...
+- 4-10: T T T T X X X X X X X X X X T T T T X X X X X X X X X X...
+- 10-4: T T T T T T T T T T X X X X T T T T T T T T T T X X X X...
+- 5-6: T T T T T X X X X X X T T T T T X X X X X X...
+- 6-5: T T T T T T X X X X X T T T T T T X X X X X...
+- 5-7: T T T T T X X X X X X X T T T T T X X X X X X X...
+- 7-5: T T T T T T T X X X X X T T T T T T T X X X X X...
+- 5-8: T T T T T X X X X X X X X T T T T T X X X X X X X X...
+- 8-5: T T T T T T T T X X X X X T T T T T T T T X X X X X...
+- 5-9: T T T T T X X X X X X X X X T T T T T X X X X X X X X X...
+- 9-5: T T T T T T T T T X X X X X T T T T T T T T T X X X X X...
+- 5-10: T T T T T X X X X X X X X X X T T T T T X X X X X X X X X X...
+- 10-5: T T T T T T T T T T X X X X X T T T T T T T T T T X X X X X...
+- 6-7, 7-6, 6-8, 8-6, 6-9, 9-6, 6-10, 10-6
+- 7-8, 8-7, 7-9, 9-7, 7-10, 10-7
+- 8-9, 9-8, 8-10, 10-8
+- 9-10, 10-9
+- Tương tự có thể tạo a-b với a, b từ 1 đến 20.
+
+A3. CẦU 3 NHỊP
+- 1-1-1: T X T X... (thực chất là 1-1)
+- 1-1-2: T X T T...
+- 1-2-1: T X X T...
+- 2-1-1: T T X T...
+- 1-2-2: T X X T T...
+- 2-1-2: T T X T T...
+- 2-2-1: T T X X T...
+- 1-1-3: T X T T T...
+- 1-3-1: T X X X T...
+- 3-1-1: T T T X T...
+- 1-2-3: T X X T T T...
+- 1-3-2: T X X X T T...
+- 2-1-3: T T X T T T...
+- 2-3-1: T T X X X T...
+- 3-1-2: T T T X T T...
+- 3-2-1: T T T X X T...
+- 1-3-3: T X X X T T T...
+- 3-1-3: T T T X T T T...
+- 3-3-1: T T T X X X T...
+- 1-1-4: T X T T T T...
+- 1-4-1: T X X X X T...
+- 4-1-1: T T T T X T...
+- 1-2-4: T X X T T T T...
+- 1-4-2: T X X X X T T...
+- 2-1-4: T T X T T T T...
+- 2-4-1: T T X X X X T...
+- 4-1-2: T T T T X T T...
+- 4-2-1: T T T T X X T...
+- 1-3-4: T X X X T T T T...
+- 1-4-3: T X X X X T T T...
+- 3-1-4: T T T X T T T T...
+- 3-4-1: T T T X X X X T...
+- 4-1-3: T T T T X T T T...
+- 4-3-1: T T T T X X X T...
+- 1-4-4: T X X X X T T T T...
+- 4-1-4: T T T T X T T T T...
+- 4-4-1: T T T T X X X X T...
+- 2-2-3: T T X X T T T...
+- 2-3-2: T T X X X T T...
+- 3-2-2: T T T X X T T...
+- 2-2-4: T T X X T T T T...
+- 2-4-2: T T X X X X T T...
+- 4-2-2: T T T T X X T T...
+- 3-3-2: T T T X X X T T...
+- 3-2-3: T T T X X T T T...
+- 2-3-3: T T X X X T T T...
+- 3-3-4: T T T X X X T T T T...
+- 3-4-3: T T T X X X X T T T...
+- 4-3-3: T T T T X X X T T T...
+- 4-4-3: T T T T X X X X T T T...
+- 4-3-4: T T T T X X X T T T T...
+- 3-4-4: T T T X X X X T T T T...
+- 5-1-1, 1-5-1, 1-1-5
+- 5-2-2, 2-5-2, 2-2-5
+- 5-3-3, 3-5-3, 3-3-5
+- 5-4-4, 4-5-4, 4-4-5
+- 5-5-1, 5-1-5, 1-5-5
+- 5-5-2, 5-2-5, 2-5-5
+- 5-5-3, 5-3-5, 3-5-5
+- 5-5-4, 5-4-5, 4-5-5
+- 5-5-5
+
+A4. CẦU 4 NHỊP
+- 1-1-1-1: T X T X...
+- 1-1-1-2: T X T X X...
+- 1-1-2-1: T X T T X...
+- 1-2-1-1: T X X T X...
+- 2-1-1-1: T T X T X...
+- 1-1-2-2: T X T T X X...
+- 1-2-1-2: T X X T X X...
+- 1-2-2-1: T X X T T X...
+- 2-1-1-2: T T X T T X X...
+- 2-1-2-1: T T X T T X T...
+- 2-2-1-1: T T X X T X...
+- 1-2-3-4: T X X T T T X X X X...
+- 4-3-2-1: T T T T X X X T T X...
+- 1-3-2-1: T X X X T T X...
+- 2-1-3-2: T T X T T T X X...
+- 3-1-2-1: T T T X T T X...
+- 1-4-1-2: T X X X X T X X...
+- 2-2-2-2: T T X X T T X X...
+- 3-3-3-3: T T T X X X T T T X X X...
+- 4-4-4-4: T T T T X X X X...
+- 5-5-5-5: T T T T T X X X X X...
+- 6-6-6-6: T T T T T T X X X X X X...
+- 1-1-1-3, 1-1-3-1, 1-3-1-1, 3-1-1-1
+- 1-1-2-3, 1-1-3-2, 1-2-1-3, 1-2-3-1, 1-3-1-2, 1-3-2-1
+- 2-1-1-3, 2-1-3-1, 2-3-1-1, 3-1-1-2, 3-1-2-1, 3-2-1-1
+- 1-2-2-3, 1-2-3-2, 1-3-2-2, 2-1-2-3, 2-1-3-2, 2-2-1-3
+- 2-2-3-1, 2-3-1-2, 2-3-2-1, 3-1-2-2, 3-2-1-2, 3-2-2-1
+- 1-3-3-2, 1-3-2-3, 1-2-3-3, 3-1-3-2, 3-1-2-3, 3-2-1-3
+- 2-3-3-1, 2-3-1-3, 2-1-3-3, 3-3-1-2, 3-3-2-1, 3-2-3-1
+- 1-4-4-2, 1-4-2-4, 1-2-4-4, 4-1-4-2, 4-1-2-4, 4-2-1-4
+- 2-4-4-1, 2-4-1-4, 2-1-4-4, 4-4-1-2, 4-4-2-1, 4-2-4-1
+- 5-1-1-1, 1-5-1-1, 1-1-5-1, 1-1-1-5
+- 5-2-2-2, 2-5-2-2, 2-2-5-2, 2-2-2-5
+- 5-3-3-3, 3-5-3-3, 3-3-5-3, 3-3-3-5
+- 5-4-4-4, 4-5-4-4, 4-4-5-4, 4-4-4-5
+- 5-5-5-5
+
+A5. CẦU 5 NHỊP
+- 1-1-1-1-1
+- 1-1-1-1-2
+- 1-1-1-2-1
+- 1-1-2-1-1
+- 1-2-1-1-1
+- 2-1-1-1-1
+- 1-1-1-2-2
+- 1-1-2-1-2
+- 1-2-1-1-2
+- 2-1-1-1-2
+- 1-2-2-2-1
+- 2-1-2-2-1
+- 2-2-1-2-1
+- 2-2-2-1-1
+- 1-2-3-4-5
+- 5-4-3-2-1
+- 1-3-5-3-1
+- 2-4-6-4-2
+- 1-1-2-3-5
+- 1-2-3-5-8 (dạng Fibonacci)
+- 5-3-2-1-1
+- 5-5-5-5-5
+
+A6. CẦU ĐẶC BIỆT / TÊN GỌI DÂN GIAN
+- Cầu đối xứng
+- Cầu phản đối xứng
+- Cầu so le
+- Cầu zic zac
+- Cầu nghiêng
+- Cầu gãy
+- Cầu bẻ
+- Cầu chuyền
+- Cầu hỗn hợp
+- Cầu ma
+- Cầu âm dương
+- Cầu ổn định
+- Cầu mờ
+- Cầu tối
+- Cầu không rõ
+- Cầu kẹp
+- Cầu đảo
+- Cầu nhảy
+- Cầu bệt
+- Cầu rồng
+- Cầu bậc thang
+- Cầu sóng
+- Cầu parabol
+- Cầu sin
+- Cầu cos
+- Cầu tam giác
+- Cầu hình quạt
+- Cầu 2 đầu
+- Cầu 3 đầu
+- Cầu 4 đầu
+- Cầu 5 đầu
+- Cầu 6 đầu
+- Cầu 7 đầu
+- Cầu 8 đầu
+- Cầu 9 đầu
+- Cầu 10 đầu
+- Cầu đầu cua
+- Cầu đuôi cua
+- Cầu gãy đầu
+- Cầu gãy giữa
+- Cầu gãy cuối
+- Cầu chuyển tiếp
+- Cầu nhiễu
+- Cầu lặp hoàn toàn
+- Cầu lặp có biến tấu
+- Cầu lặp đảo
+- Cầu tăng nhịp
+- Cầu giảm nhịp
+- Cầu nhịp đều
+- Cầu nhịp lệch
+- Cầu 1 nhánh
+- Cầu 2 nhánh
+- Cầu 3 nhánh
+- Cầu 4 nhánh
+
+==================================================
+PHẦN B: CẤU TRÚC CẦU
+==================================================
+- Theo số nhịp: 1 nhịp, 2 nhịp, 3 nhịp, 4 nhịp, 5 nhịp, n nhịp
+- Theo hướng: bệt, đảo, đối xứng, so le, nghiêng, gãy, bẻ, chuyền
+- Theo chu kỳ: ngắn, trung, dài
+- Theo trạng thái: ổn định, chuyển tiếp, nhiễu
+- Theo độ rõ: rõ, mờ, tối
+- Theo số cửa: 2 cửa
+- Theo biên độ: nhịp đều, nhịp lệch, nhịp tăng, nhịp giảm
+- Theo điểm gãy: gãy đầu, gãy giữa, gãy cuối
+- Theo kiểu lặp: lặp hoàn toàn, lặp có biến tấu, lặp đảo
+- Theo số nhánh: 1 nhánh, 2 nhánh, 3 nhánh, 4 nhánh
+- Theo dạng đồ thị: bậc thang, sóng, parabol, sin, cos, tam giác, hình quạt
+
+==================================================
+PHẦN C: CÔNG THỨC TỰ SINH THÊM DẠNG CẦU
+==================================================
+- Cầu a-b: với a, b là số nguyên dương. Ví dụ 1-2, 3-5, 7-4...
+- Cầu a-b-c: với a, b, c là số nguyên dương. Ví dụ 1-2-3, 4-1-2...
+- Cầu a-b-c-d: với a, b, c, d là số nguyên dương. Ví dụ 1-2-3-4...
+- Cầu a-b-c-d-e: với a, b, c, d, e là số nguyên dương.
+- Cầu bệt n: T T T... n lần rồi X X X... n lần.
+- Cầu đảo n: T X T X... n lần.
+- Cầu đối xứng: a-b-b-a, a-b-c-b-a...
+- Cầu phản đối xứng: a-b-c-d... rồi đảo ngược.
+- Cầu Fibonacci: 1-1-2-3-5-8...
+- Cầu số học: 1-2-3-4-5...
+- Cầu hình học: 1-2-4-8-16...
+- Cầu lặp có biến tấu: 1-2-3 rồi 1-2-4, 1-3-3...
+- Cầu gãy: đang bệt thì đổi cửa.
+- Cầu bẻ: đang 1-1 thì thành bệt.
+- Cầu chuyền: nhịp nối tiếp có biến tấu.
+- Cầu ma: chuỗi khó nhận biết.
+- Cầu không rõ: ra ngẫu nhiên, không theo nhịp.
+
+=====================================================================
+BỘ CẦU TÀI XỈU MỞ RỘNG
+KÈM THUẬT TOÁN NHẬN DIỆN CẦU - TƯ DUY LOGIC - CHUYỂN HÓA LINH HOẠT
+=====================================================================
+(Bản tham khảo. Không có cầu nào đảm bảo ván sau.
+Không cổ vũ cá cược. Kiểm tra pháp luật nơi bạn ở.)
+
+KÝ HIỆU:
+- T = Tài, X = Xỉu
+- s = chuỗi kết quả, s[i] ∈ {0,1}
+- n = độ dài chuỗi
+- p = chu kỳ
+- L = dãy độ dài nhịp (run-length)
+- ... = lặp lại
+- a-b = nhịp a rồi nhịp b
+
+=====================================================================
+PHẦN 1: MỞ RỘNG DANH SÁCH CẦU
+=====================================================================
+
+---------------------------------------------------------------------
+1.1. CẦU BỆT (RỒNG) - MỌI ĐỘ DÀI
+---------------------------------------------------------------------
+- Bệt 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+- Bệt 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+- Bệt 25, 30, 40, 50, 100
+- Bệt Tài / Bệt Xỉu
+- Bệt dài vô tận
+
+---------------------------------------------------------------------
+1.2. CẦU NHỊP ĐÔI (a-b) - MỌI TỔ HỢP
+---------------------------------------------------------------------
+Nhịp bằng:
+- 1-1, 2-2, 3-3, 4-4, 5-5, 6-6, 7-7, 8-8, 9-9, 10-10
+- 11-11, 12-12, 15-15, 20-20, 25-25, 30-30, 50-50
+
+Nhịp lệch (a < b):
+- 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10
+- 1-11, 1-12, 1-13, 1-14, 1-15, 1-16, 1-17, 1-18, 1-19, 1-20
+- 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10
+- 3-4, 3-5, 3-6, 3-7, 3-8, 3-9, 3-10
+- 4-5, 4-6, 4-7, 4-8, 4-9, 4-10
+- 5-6, 5-7, 5-8, 5-9, 5-10
+- 6-7, 6-8, 6-9, 6-10
+- 7-8, 7-9, 7-10
+- 8-9, 8-10
+- 9-10
+- Tổng quát: a-b với a, b ∈ {1..20}, a ≠ b
+
+Nhịp lệch ngược (a > b):
+- 2-1, 3-1, 4-1, 5-1, 6-1, 7-1, 8-1, 9-1, 10-1
+- 3-2, 4-2, 5-2, 6-2, 7-2, 8-2, 9-2, 10-2
+- 4-3, 5-3, 6-3, 7-3, 8-3, 9-3, 10-3
+- 5-4, 6-4, 7-4, 8-4, 9-4, 10-4
+- 6-5, 7-5, 8-5, 9-5, 10-5
+- 7-6, 8-6, 9-6, 10-6
+- 8-7, 9-7, 10-7
+- 9-8, 10-8
+- 10-9
+
+---------------------------------------------------------------------
+1.3. CẦU 3 NHỊP (a-b-c)
+---------------------------------------------------------------------
+Tổng nhỏ (1..3):
+- 1-1-1
+- 1-1-2, 1-2-1, 2-1-1
+- 1-1-3, 1-3-1, 3-1-1
+- 1-2-2, 2-1-2, 2-2-1
+- 1-2-3, 1-3-2, 2-1-3, 2-3-1, 3-1-2, 3-2-1
+- 2-2-2
+- 2-2-3, 2-3-2, 3-2-2
+- 2-3-3, 3-2-3, 3-3-2
+- 3-3-3
+
+Tổng vừa (4..6):
+- 1-1-4, 1-4-1, 4-1-1
+- 1-2-4, 1-4-2, 2-1-4, 2-4-1, 4-1-2, 4-2-1
+- 1-3-4, 1-4-3, 3-1-4, 3-4-1, 4-1-3, 4-3-1
+- 2-2-4, 2-4-2, 4-2-2
+- 3-3-4, 3-4-3, 4-3-3
+- 4-4-1, 4-1-4, 1-4-4
+- 1-2-5, 1-5-2, 2-1-5, 2-5-1, 5-1-2, 5-2-1
+- 1-3-5, 1-5-3, 3-1-5, 3-5-1, 5-1-3, 5-3-1
+- 2-2-5, 2-5-2, 5-2-2
+- 3-3-5, 3-5-3, 5-3-3
+- 4-4-5, 4-5-4, 5-4-4
+- 5-5-1, 5-1-5, 1-5-5
+- 5-5-2, 5-2-5, 2-5-5
+- 5-5-3, 5-3-5, 3-5-5
+- 5-5-4, 5-4-5, 4-5-5
+- 1-4-4, 4-1-4, 4-4-1
+- 1-3-3, 3-1-3, 3-3-1
+- 1-1-5, 1-5-1, 5-1-1
+- 1-1-6, 1-6-1, 6-1-1
+- 2-2-6, 2-6-2, 6-2-2
+- 3-3-6, 3-6-3, 6-3-3
+- 4-4-6, 4-6-4, 6-4-4
+- 5-5-6, 5-6-5, 6-5-5
+- 6-6-1, 6-1-6, 1-6-6
+- 6-6-2, 6-2-6, 2-6-6
+- 6-6-3, 6-3-6, 3-6-6
+- 6-6-4, 6-4-6, 4-6-6
+- 6-6-5, 6-5-6, 5-6-6
+- 5-5-5, 6-6-6
+
+Tổng lớn (7..10):
+- 1-7-7, 7-1-7, 7-7-1
+- 2-7-7, 7-2-7, 7-7-2
+- 3-7-7, 7-3-7, 7-7-3
+- 4-7-7, 7-4-7, 7-7-4
+- 5-7-7, 7-5-7, 7-7-5
+- 6-7-7, 7-6-7, 7-7-6
+- 8-7-7, 7-8-7, 7-7-8
+- 9-7-7, 7-9-7, 7-7-9
+- 10-7-7, 7-10-7, 7-7-10
+- 8-8-8, 9-9-9, 10-10-10
+- Tổng quát: a-b-c với a, b, c ∈ {1..10}
+
+---------------------------------------------------------------------
+1.4. CẦU 4 NHỊP (a-b-c-d)
+---------------------------------------------------------------------
+- 1-1-1-1
+- 1-1-1-2, 1-1-2-1, 1-2-1-1, 2-1-1-1
+- 1-1-1-3, 1-1-3-1, 1-3-1-1, 3-1-1-1
+- 1-1-2-2, 1-2-1-2, 1-2-2-1, 2-1-1-2, 2-1-2-1, 2-2-1-1
+- 1-1-2-3, 1-1-3-2, 1-2-1-3, 1-2-3-1, 1-3-1-2, 1-3-2-1
+- 2-1-1-3, 2-1-3-1, 2-3-1-1, 3-1-1-2, 3-1-2-1, 3-2-1-1
+- 1-2-2-3, 1-2-3-2, 1-3-2-2, 2-1-2-3, 2-1-3-2, 2-2-1-3
+- 2-2-3-1, 2-3-1-2, 2-3-2-1, 3-1-2-2, 3-2-1-2, 3-2-2-1
+- 1-3-3-2, 1-3-2-3, 1-2-3-3, 3-1-3-2, 3-1-2-3, 3-2-1-3
+- 2-3-3-1, 2-3-1-3, 2-1-3-3, 3-3-1-2, 3-3-2-1, 3-2-3-1
+- 1-2-3-4, 4-3-2-1
+- 1-2-3-5, 5-3-2-1
+- 1-2-4-8, 8-4-2-1
+- 1-3-5-7, 7-5-3-1
+- 2-4-6-8, 8-6-4-2
+- 2-2-2-2, 3-3-3-3, 4-4-4-4, 5-5-5-5
+- 6-6-6-6, 7-7-7-7, 8-8-8-8, 9-9-9-9, 10-10-10-10
+- 1-4-4-1, 4-1-1-4, 1-4-1-4, 4-1-4-1
+- 2-4-4-2, 4-2-2-4, 2-4-2-4, 4-2-4-2
+- 3-4-4-3, 4-3-3-4, 3-4-3-4, 4-3-4-3
+- 1-3-1-3, 3-1-3-1
+- 2-3-2-3, 3-2-3-2
+- 1-5-1-5, 5-1-5-1
+- 2-5-2-5, 5-2-5-2
+- 1-2-2-1, 2-1-1-2
+- 1-2-3-3, 3-3-2-1
+- 1-2-2-3, 3-2-2-1
+- 1-3-2-3, 3-2-3-1
+- 1-3-3-2, 2-3-3-1
+- 2-1-1-3, 3-1-1-2
+- 2-1-2-3, 3-2-1-2
+- 2-2-3-3, 3-3-2-2
+- 3-1-1-1, 1-1-1-3
+- 4-1-1-1, 1-1-1-4
+- 5-1-1-1, 1-1-1-5
+- 5-5-5-5
+- Tổng quát: a-b-c-d với a, b, c, d ∈ {1..10}
+
+---------------------------------------------------------------------
+1.5. CẦU 5 NHỊP (a-b-c-d-e)
+---------------------------------------------------------------------
+- 1-1-1-1-1
+- 1-1-1-1-2, 1-1-1-2-1, 1-1-2-1-1, 1-2-1-1-1, 2-1-1-1-1
+- 1-1-1-2-2, 1-1-2-1-2, 1-2-1-1-2, 2-1-1-1-2
+- 1-1-2-2-2, 1-2-1-2-2, 2-1-2-1-2, 2-2-1-2-1, 2-2-2-1-1
+- 1-1-1-2-3, 1-1-2-1-3, 1-1-2-3-1
+- 1-1-3-1-3, 1-3-1-3-1, 3-1-3-1-3
+- 1-2-1-2-1, 2-1-2-1-2
+- 1-2-3-4-5, 5-4-3-2-1
+- 1-3-5-7-9, 9-7-5-3-1
+- 2-4-6-8-10, 10-8-6-4-2
+- 1-1-2-3-5 (Fibonacci)
+- 1-2-3-5-8 (Fibonacci)
+- 2-3-5-8-13 (Fibonacci)
+- 2-2-2-2-2, 3-3-3-3-3, 4-4-4-4-4, 5-5-5-5-5
+- 6-6-6-6-6, 7-7-7-7-7, 8-8-8-8-8, 9-9-9-9-9, 10-10-10-10-10
+
+---------------------------------------------------------------------
+1.6. CẦU 6 NHỊP TRỞ LÊN
+---------------------------------------------------------------------
+- 1-1-1-1-1-1
+- 1-1-1-1-1-2, 1-1-1-1-2-1, 1-1-1-2-1-1
+- 1-1-2-1-1-1, 1-2-1-1-1-1, 2-1-1-1-1-1
+- 1-2-3-4-5-6, 6-5-4-3-2-1
+- 1-1-2-3-5-8 (Fibonacci)
+- 1-2-3-5-8-13 (Fibonacci)
+- 2-2-2-2-2-2, 3-3-3-3-3-3, 4-4-4-4-4-4
+- 5-5-5-5-5-5, 6-6-6-6-6-6, 7-7-7-7-7-7
+- 8-8-8-8-8-8, 9-9-9-9-9-9, 10-10-10-10-10-10
+- 7 nhịp, 8 nhịp, 9 nhịp, 10 nhịp, n nhịp
+
+---------------------------------------------------------------------
+1.7. CẦU ĐỐI XỨNG / PHẢN ĐỐI XỨNG
+---------------------------------------------------------------------
+- Đối xứng 2: a-b-b-a
+- Đối xứng 3: a-b-c-b-a
+- Đối xứng 4: a-b-c-d-c-b-a
+- Đối xứng 5: a-b-c-d-e-d-c-b-a
+- Phản đối xứng: a-b-c-d... rồi d-c-b-a
+- Đối xứng gương: T X X T / X T T X
+- Đối xứng tâm: T X T / X T X
+- Đối xứng trục: T T X X T T
+- Đối xứng chéo: T X X T X T T X
+- Đối xứng lệch: T X X T T X X T
+- Đối xứng mở rộng: T X X T X X T X X T
+- Đối xứng bậc thang: 1-2-3-3-2-1
+- Đối xứng zic zac: 1-2-1-2-1
+
+---------------------------------------------------------------------
+1.8. CẦU SỐ HỌC / HÌNH HỌC / ĐẶC BIỆT
+---------------------------------------------------------------------
+- Số học tăng: 1-2-3-4-5-6-7-8-9-10
+- Số học giảm: 10-9-8-7-6-5-4-3-2-1
+- Hình học tăng: 1-2-4-8-16-32
+- Hình học giảm: 32-16-8-4-2-1
+- Fibonacci: 1-1-2-3-5-8-13-21
+- Lucas: 2-1-3-4-7-11-18
+- Tam giác: 1-2-3-4-5 / 5-4-3-2-1
+- Parabol: 1-2-3-2-1 / 1-3-5-3-1
+- Sóng sin: 1-2-3-2-1-2-3-2-1
+- Sóng cos: 3-2-1-2-3-2-1-2-3
+- Bậc thang lên: 1-1-2-2-3-3-4-4-5-5
+- Bậc thang xuống: 5-5-4-4-3-3-2-2-1-1
+- Bậc thang đối xứng: 1-1-2-2-3-3-2-2-1-1
+- Zigzag tăng: 1-2-1-3-1-4-1-5
+- Zigzag giảm: 5-1-4-1-3-1-2-1
+- Xoắn ốc: 1-2-3-2-4-3-5-4-6
+- Nhân đôi: 1-2-4-8-16
+- Chia đôi: 16-8-4-2-1
+- Cộng: 1-3-5-7-9
+- Trừ: 9-7-5-3-1
+- Nguyên tố: 2-3-5-7-11-13
+- Chẵn: 2-4-6-8-10
+- Lẻ: 1-3-5-7-9
+- Nhịp 0: 0-0-0-0
+- Nhịp vô cực: n-n-n-n
+
+---------------------------------------------------------------------
+1.9. CẦU GÃY - BẺ - CHUYỀN - MA
+---------------------------------------------------------------------
+- Gãy đầu: bệt 3 rồi gãy ở nhịp 4
+- Gãy giữa: bệt 5 rồi gãy ở nhịp 3
+- Gãy cuối: bệt 5 rồi gãy ở nhịp 5
+- Gãy đôi: bệt T rồi bệt X
+- Gãy ba: bệt T, bệt X, bệt T
+- Bẻ 1-1: đang 1-1 thành bệt
+- Bẻ bệt: đang bệt thành 1-1
+- Bẻ 2-2: đang 2-2 thành 1-1
+- Bẻ 3-3: đang 3-3 thành 2-2
+- Chuyền 1-2: 1-1 rồi 2-2
+- Chuyền 2-3: 2-2 rồi 3-3
+- Chuyền 3-4: 3-3 rồi 4-4
+- Chuyền ngược: 3-3 rồi 2-2 rồi 1-1
+- Ma 1: chuỗi khó hiểu
+- Ma 2: chuỗi đổi liên tục
+- Ma 3: chuỗi không theo quy luật
+- Ma 4: chuỗi đan xen nhiều nhịp
+- Ma 5: chuỗi gãy liên tục
+- Ma 6: chuỗi bẻ liên tục
+- Ma 7: chuỗi chuyền liên tục
+- Ma 8: chuỗi nhịp ngẫu nhiên
+- Ma 9: chuỗi nhịp hỗn loạn
+- Ma 10: chuỗi không thể nhận biết
+
+---------------------------------------------------------------------
+1.10. CẦU THEO ĐỒ THỊ / HÌNH HỌC
+---------------------------------------------------------------------
+- Đường thẳng, đường cong
+- Parabol, hyperbol, elip
+- Tròn, vuông, tam giác, chữ nhật, thoi, bình hành, thang
+- Sóng, sin, cos, tan, cot
+- Logarit, mũ
+- Fractal, đệ quy
+- Nhị phân, bát phân, thập lục phân
+- Mã Morse
+- Nhịp tim, nhịp thở
+- Nhịp sóng biển, thủy triều
+- Nhịp mặt trăng, mặt trời
+- Nhịp âm dương, ngũ hành, bát quái
+- Nhịp 12 con giáp, 24 tiết khí, 60 hoa giáp, 64 quẻ
+- Nhịp 100, 1000, vô hạn
+
+---------------------------------------------------------------------
+1.11. CẦU HỖN HỢP / TÊN GỌI KHÁC
+---------------------------------------------------------------------
+- Hỗn hợp 2, 3, 4, 5, n nhịp
+- Đa nhịp, đa tầng, đa lớp, đa chiều, đa hướng
+- Đa trục, đa tâm, đa cửa, đa biên, đa điểm
+- Đa tuyến, đa giác, đa diện, đa chiều không gian
+- Vô hướng, hữu hướng, vector, scalar
+- Ma trận, tensor, đồ thị, cây, rừng, mạng, lưới
+- Nút, cạnh, đỉnh, lá, rễ, thân, cành, hoa, quả, hạt
+- Mầm, chồi, rễ cọc, rễ chùm, thân gỗ, thân thảo
+- Dây leo, bò, bụi, tre, trúc, tùng, bách, mai, lan, cúc
+
+=====================================================================
+=====================================================================
+PHẦN 2: CÔNG THỨC THỰC DỤNG NHẬN DIỆN CẦU
+=====================================================================
+
+---------------------------------------------------------------------
+2.1. MÃ HÓA
+---------------------------------------------------------------------
+- Tài Xỉu: T = 1, X = 0
+Chuỗi: s = s[0], s[1], ..., s[n-1], s[i] ∈ {0,1}
+
+---------------------------------------------------------------------
+2.2. RUN-LENGTH ENCODING (RLE) – CỐT LÕI
+---------------------------------------------------------------------
+Tách chuỗi thành các đoạn cùng giá trị:
+L = [(v1, l1), (v2, l2), ..., (vk, lk)]
+Trong đó li = số lần lặp liên tiếp của giá trị vi.
+
+Ví dụ:
+T T X X X T X
+=> [(T,2), (X,3), (T,1), (X,1)]
+=> dãy nhịp: L = [2, 3, 1, 1]
+
+Từ L suy ra cầu:
+- L = [1,1,1,1] → 1-1
+- L = [2,2,2,2] → 2-2
+- L = [3,3,3,3] → 3-3
+- L = [1,2,1,2] → 1-2
+- L = [2,1,2,1] → 2-1
+- L = [1,2,3,1,2,3] → 1-2-3
+
+---------------------------------------------------------------------
+2.3. PHÁT HIỆN CHU KỲ
+---------------------------------------------------------------------
+Chuỗi s có chu kỳ p nếu:
+s[i] == s[i - p] với mọi i >= p
+
+Ý nghĩa:
+- p = 2 → 1-1
+- p = 4 → 2-2
+- p = 6 → 3-3
+- p = 3 → 1-2 hoặc 2-1
+
+---------------------------------------------------------------------
+2.4. PHÁT HIỆN CẦU TỪ DÃY NHỊP
+---------------------------------------------------------------------
+Cho L = [l1, l2, ..., lk]. Tìm chu kỳ của L.
+Nếu L lặp lại mẫu [a,b,...] thì đó là cầu a-b-...
+
+Ví dụ:
+L = [1,2,1,2,1,2] → cầu 1-2
+L = [3,1,3,1,3,1] → cầu 3-1
+L = [2,3,2,3,2,3] → cầu 2-3
+
+---------------------------------------------------------------------
+2.5. NHỊP TRUNG BÌNH (đơn giản)
+---------------------------------------------------------------------
+Nhịp trung bình = n / k
+(n = độ dài chuỗi, k = số đoạn RLE)
+→ Giúp biết nhịp đang dài hay ngắn.
+
+=====================================================================
+PHẦN 3: THUẬT TOÁN NHẬN DIỆN CẦU
+=====================================================================
+
+---------------------------------------------------------------------
+3.1. THUẬT TOÁN RLE
+---------------------------------------------------------------------
+def rle(s):
+    out = []
+    cur = s[0]
+    count = 1
+    for x in s[1:]:
+        if x == cur:
+            count += 1
+        else:
+            out.append((cur, count))
+            cur = x
+            count = 1
+    out.append((cur, count))
+    return out
+
+---------------------------------------------------------------------
+3.2. THUẬT TOÁN TÌM CHU KỲ
+---------------------------------------------------------------------
+def tim_chu_ky(s):
+    n = len(s)
+    for p in range(1, n // 2 + 1):
+        ok = True
+        for i in range(p, n):
+            if s[i] != s[i - p]:
+                ok = False
+                break
+        if ok:
+            return p
+    return None
+
+---------------------------------------------------------------------
+3.3. THUẬT TOÁN TÌM CẦU TỪ NHỊP
+---------------------------------------------------------------------
+def tim_cau_tu_nhip(L):
+    n = len(L)
+    for p in range(1, n // 2 + 1):
+        ok = True
+        for i in range(p, n):
+            if L[i] != L[i - p]:
+                ok = False
+                break
+        if ok:
+            return L[:p]
+    return None
+
+---------------------------------------------------------------------
+3.4. THUẬT TOÁN PHÂN LOẠI CẦU
+---------------------------------------------------------------------
+def phan_loai_cau(s):
+    L = rle(s)
+    nhip = [count for _, count in L]
+    
+    if len(L) == 1:
+        return "Bệt"
+    
+    cau = tim_cau_tu_nhip(nhip)
+    if cau:
+        return "Cầu " + "-".join(map(str, cau))
+    
+    if nhip == nhip[::-1]:
+        return "Đối xứng"
+    
+    return "Hỗn hợp / không rõ"
+
+=====================================================================
+PHẦN 4: TƯ DUY LOGIC - CHUYỂN HÓA LINH HOẠT
+=====================================================================
+
+---------------------------------------------------------------------
+4.1. NGUYÊN TẮC TƯ DUY
+---------------------------------------------------------------------
+1. Quan sát trước, kết luận sau.
+2. Không bám cứng một cầu.
+3. Luôn có ít nhất 2 giả thuyết.
+4. Đặt điểm gãy cho mỗi giả thuyết.
+5. Chuyển hóa khi có tín hiệu mới.
+6. Không cố chấp khi cầu đã gãy.
+7. Ghi chép để so sánh lý thuyết và thực tế.
+8. Xác suất không phải chắc chắn.
+9. Quản lý vốn quan trọng hơn dự đoán.
+10. Biết dừng đúng lúc.
+
+---------------------------------------------------------------------
+4.2. QUY TRÌNH NHẬN DIỆN CẦU
+---------------------------------------------------------------------
+Bước 1: Thu thập chuỗi kết quả gần nhất (>= 20 ván).
+Bước 2: Mã hóa T/X thành 1/0.
+Bước 3: Chạy RLE để lấy dãy nhịp.
+Bước 4: Tìm chu kỳ của dãy nhịp.
+Bước 5: Đối chiếu với danh sách cầu.
+Bước 6: Đưa ra 2-3 giả thuyết.
+Bước 7: Đặt điểm gãy cho mỗi giả thuyết.
+Bước 8: Theo dõi và cập nhật.
+Bước 9: Kết luận cầu rõ / mờ / không rõ.
+
+---------------------------------------------------------------------
+4.3. CHUYỂN HÓA LINH HOẠT
+---------------------------------------------------------------------
+- Đang bệt → chuyển sang 1-1 khi có 1 nhịp ngược.
+- Đang 1-1 → chuyển sang bệt khi có 2 nhịp cùng cửa.
+- Đang 2-2 → chuyển sang 3-3 khi nhịp thứ 3 xuất hiện.
+- Đang 1-2 → chuyển sang 2-1 khi thứ tự đảo.
+- Đang rõ → chuyển sang mờ khi cầu bắt đầu gãy.
+- Đang mờ → chuyển sang rõ khi chu kỳ xuất hiện rõ.
+- Đang ổn định → chuyển sang nhiễu khi có gãy liên tiếp.
+- Đang nhiễu → chuyển sang ổn định khi nhịp đều trở lại.
+
+---------------------------------------------------------------------
+4.4. ĐIỂM GÃY - ĐIỂM BẺ - ĐIỂM CHUYỀN
+---------------------------------------------------------------------
+- Điểm gãy: vị trí cầu đổi hướng.
+- Điểm bẻ: vị trí cầu đổi cấu trúc.
+- Điểm chuyền: vị trí cầu nối sang dạng khác.
+- Điểm xác nhận: vị trí cầu mới được xác nhận.
+- Điểm phủ định: vị trí giả thuyết bị bác bỏ.
+
+---------------------------------------------------------------------
+4.5. MA TRẬN QUYẾT ĐỊNH
+---------------------------------------------------------------------
+| Trạng thái       | Hành động              |
+|------------------|------------------------|
+| Cầu rõ           | Theo dõi, không vội    |
+| Cầu mờ           | Không kết luận         |
+| Cầu không rõ     | Dừng phân tích         |
+| Cầu gãy          | Chuyển giả thuyết      |
+| Cầu bẻ           | Đổi cấu trúc           |
+| Cầu chuyền       | Nối sang dạng mới      |
+| Nhiễu cao        | Không hành động        |
+
+---------------------------------------------------------------------
+4.6. SAI LẦM THƯỜNG GẶP
+---------------------------------------------------------------------
+1. Ảo tưởng kiểm soát: tin rằng mình đoán được.
+2. Bám cầu quá lâu: cầu đã gãy vẫn cố theo.
+3. Chuỗi ngẫu nhiên vẫn tưởng có cầu.
+4. Tăng vốn khi thua: cố gỡ.
+5. Tin vào "cầu ma": không có cơ sở.
+6. Bỏ qua quản lý vốn.
+7. Không ghi chép.
+8. Không có điểm dừng.
+9. Nhầm may mắn với kỹ năng.
+10. Quên rằng xác suất không đảm bảo.
+
+---------------------------------------------------------------------
+4.7. CÔNG THỨC TƯ DUY
+---------------------------------------------------------------------
+- Quan sát + Phân tích + Giả thuyết + Kiểm chứng + Kết luận
+- Chuỗi + RLE + Chu kỳ + Quyết định
+- Cầu rõ + Điểm gãy + Điểm xác nhận + Chuyển hóa
+- Không chắc chắn + Quản lý vốn + Điểm dừng
+
+PHẦN 5: CÔNG THỨC TỰ SINH VÔ HẠN DẠNG CẦU
+=====================================================================
+- Cầu a-b (a, b ∈ N*)
+- Cầu a-b-c (a, b, c ∈ N*)
+- Cầu a-b-c-d (a, b, c, d ∈ N*)
+- Cầu a-b-c-d-e (a, b, c, d, e ∈ N*)
+- Cầu a1-a2-...-an (n nhịp)
+- Cầu bệt n
+- Cầu đảo n
+- Cầu đối xứng n
+- Cầu phản đối xứng n
+- Cầu lặp hoàn toàn n
+- Cầu lặp có biến tấu n
+- Cầu gãy n
+- Cầu bẻ n
+- Cầu chuyền n
+- Cầu ma n
+- Cầu hỗn hợp n
+- Cầu Fibonacci n
+- Cầu Lucas n
+- Cầu số học n
+- Cầu hình học n
+- Cầu nguyên tố n
+- Cầu chẵn n
+- Cầu lẻ n
+- Cầu vô cực n
+- Cầu ngẫu nhiên n
+- Cầu không rõ n
+- Cầu bất kỳ n
+- Cầu vô hạn
+- Cầu bất tận
+- Cầu vĩnh cửu
+- Cầu trường tồn
+- Cầu bất diệt
+- Cầu vô thủy
+- Cầu vô chung
+- Cầu vô thủy vô chung
+- Cầu vô cực
+- Cầu vô tận
+- Cầu vô biên
